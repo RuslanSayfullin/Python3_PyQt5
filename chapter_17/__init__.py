@@ -1,1 +1,0 @@
-from chapter_17.listing172 import MyWindow
